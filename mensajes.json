@@ -1,1 +1,1 @@
-{"status":"ok","mensaje":[{"id":"01","titulo":"titulo 1","mensaje":"sdfsadfsdfsdagfgd"},{"id":"02","titulo":"titulo 2","mensaje":"hola soy un mensaje"}]}
+{"status":"ok","mensaje":[{"mensaje":"hola soy un mensaje"},{"mensaje":"hola soy otro mensaje"}]}
